@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Spencyk
+- 👀 I’m interested in HTML, CSS, Python.
+- 🌱 I’m currently learning HTML
