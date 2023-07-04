@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Spencyk
-- 👀 I’m interested in HTML, CSS, Python.
+- 👀 I’m interested in HTML, CSS, and Javascript.
 - 🌱 I’m currently learning HTML.
